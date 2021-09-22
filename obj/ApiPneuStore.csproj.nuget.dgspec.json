@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\source\\repos\\GHEPT\\btc-pneustore-api\\ApiPneuStore.csproj": {}
+    "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo\\source\\repos\\GHEPT\\btc-pneustore-api\\ApiPneuStore.csproj": {
+    "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\source\\repos\\GHEPT\\btc-pneustore-api\\ApiPneuStore.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj",
         "projectName": "ApiPneuStore",
-        "projectPath": "C:\\Users\\Eduardo\\source\\repos\\GHEPT\\btc-pneustore-api\\ApiPneuStore.csproj",
-        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\source\\repos\\GHEPT\\btc-pneustore-api\\obj\\",
+        "projectPath": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj",
+        "packagesPath": "C:\\Users\\mec04\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mec04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
