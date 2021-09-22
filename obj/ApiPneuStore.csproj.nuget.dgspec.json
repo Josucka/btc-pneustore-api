@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj": {}
+    "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj",
         "projectName": "ApiPneuStore",
-        "projectPath": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj",
-        "packagesPath": "C:\\Users\\mec04\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mec04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
