@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj": {}
+    "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj": {
+    "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj",
         "projectName": "ApiPneuStore",
-        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\ApiPneuStore.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Área de Trabalho\\Bootcamp\\obj\\",
+        "projectPath": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\ApiPneuStore.csproj",
+        "packagesPath": "C:\\Users\\mec04\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Blue\\Repositórios\\btc-pneustore-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mec04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,9 +40,35 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
